@@ -6,7 +6,7 @@ This project implements a remote pressure control system using an embedded syste
 The main functions used from the `OpenCV` library are `HoughCircles` (to detect the outline of the gauge and center point) and `HoughLines` (to detect the dial).
 ### Overview of working :
 - Basic filtering is done.
-- Prgram return circles from `HoughCircles` that are within reasonable range of the image height (this assumes the gauge takes up most of the view)
+- return circles from `HoughCircles` that are within reasonable range of the image height (this assumes the gauge takes up most of the view)
 - gets the biggest circle form resulting circles and use the center point and radius for lines.
 - apply a threshold using `cv2.threshold.` and `cv2.THRESH_BINARY_INV`.
 - check if a line is within an acceptable range of the radius
