@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(Calibrate)
+find_package(OpenCV REQUIRED)
+# include_directories("/opt/homebrew/Cellar/opencv/4.9.0_1/include/opencv4/opencv2/")
+add_executable(Calibrate main.cpp)
+target_link_libraries(Calibrate ${OpenCV_LIBS})
