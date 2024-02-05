@@ -6,7 +6,7 @@ This project implements a remote pressure control system using an embedded syste
 
 ## Output
 
-<img src="Test Result/Screenshot 1.png" alt="Image Description" width="550" height="400" />     <img src="Test Result/Screenshot 4.png" alt="Image Description" width="250" height="400" />
+<img src="Test Result/Screenshot 1.png" alt="Image Description" width="550" height="350" />     <img src="Test Result/Screenshot 4.png" alt="Image Description" width="250" height="350" />
 
 
 ## Setup Instructions
