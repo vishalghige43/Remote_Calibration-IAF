@@ -184,7 +184,7 @@ int main(){
 
     //get Calibrarted Value
     CalibratedValue c=calibrateGauge(img);
-    // getCurrentValue(img,c);
+    getCurrentValue(img,c);
     //show
     imshow("img",img);
     waitKey();
