@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/vishalghige/Desktop/#C0DE/Comp Vision/Remote Calibrate/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.9.0_1/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/Calibrate.dir/main.cpp.o -c \"/Users/vishalghige/Desktop/#C0DE/Comp Vision/Remote Calibrate/main.cpp\"",
+  "file": "/Users/vishalghige/Desktop/#C0DE/Comp Vision/Remote Calibrate/main.cpp",
+  "output": "CMakeFiles/Calibrate.dir/main.cpp.o"
+}
+]
