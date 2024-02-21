@@ -1,3 +1,0 @@
-/Users/vishalghige/Desktop/#C0DE/Comp Vision/Remote Calibrate/build/CMakeFiles/Calibrate.dir
-/Users/vishalghige/Desktop/#C0DE/Comp Vision/Remote Calibrate/build/CMakeFiles/edit_cache.dir
-/Users/vishalghige/Desktop/#C0DE/Comp Vision/Remote Calibrate/build/CMakeFiles/rebuild_cache.dir
